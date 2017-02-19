@@ -1,0 +1,5 @@
+str1=raw_input("please input a string:")
+print(str1)
+n=len(str1)
+print(n)
+print(format(3.1415926,'4.2f'))
